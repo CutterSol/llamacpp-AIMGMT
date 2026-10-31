@@ -1,0 +1,6 @@
+{
+  "name": "AI Node Manager",
+  "description": "A high-performance management dashboard for local AI models based on llama.cpp, optimized for dual-GPU NVIDIA and Vulkan environments, with real-time logging, metrics, and backend switching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
